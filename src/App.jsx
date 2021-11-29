@@ -5,12 +5,12 @@ import { Auth } from "./pages/Auth";
 const App = () => {
   return (
     <>
-      <BaseStyle/>
+      <BaseStyle />
       <Layout>
-        <Auth/>
+        <Auth />
       </Layout>
     </>
   );
-}
+};
 
 export default App;
