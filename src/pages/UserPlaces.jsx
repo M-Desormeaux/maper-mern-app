@@ -1,0 +1,1 @@
+// maper.com/:uid/places
