@@ -6,11 +6,11 @@ export const BaseStyle = createGlobalStyle`
     }
     * {
         box-sizing: border-box;
-    }
-    body,
-    html {
-        background-color: dddddd;
         margin: 0;
         padding: 0;
     }
-`
+    body,
+    html {
+        background-color: #dddddd;
+    }
+`;
