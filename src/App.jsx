@@ -1,6 +1,7 @@
 import { BaseStyle } from "./AppStyle";
 import { Layout } from "./components/Layout/Layout";
 import { Auth } from "./pages/Auth";
+import { UserList } from "./pages/UserList";
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <BaseStyle />
       <Layout>
         <Auth />
+        <UserList />
       </Layout>
     </>
   );

@@ -37,7 +37,7 @@ export const Auth = () => {
   return (
     <Container>
       <form>
-        <Typography type="h2">{title}</Typography>
+        <Typography type="h1">{title}</Typography>
         <div>
           <Input
             label="Username:"
